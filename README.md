@@ -6,7 +6,7 @@
 
  <div>
   <a href="https://github.com/WallaceVenancio">
-  <img height="250em" align="right" alt="Rafa-yoda" src="https://64.media.tumblr.com/24a4078381d315b3fe8423bedb955aae/2223f67ce3f3e3bc-14/s640x960/74cd923b32572484f1a70d61fe3d1199281031a3.gifv">
+  <img height="140em" align="right" alt="Rafa-yoda" src="https://64.media.tumblr.com/24a4078381d315b3fe8423bedb955aae/2223f67ce3f3e3bc-14/s640x960/74cd923b32572484f1a70d61fe3d1199281031a3.gifv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WallaceVenancio&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceVenancio&layout=compact&langs_count=16&theme=shades-of-purple"/>
 </div>
