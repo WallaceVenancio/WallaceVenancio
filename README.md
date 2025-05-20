@@ -1,7 +1,7 @@
 ## Bem-vindo ao meu Git 👍
 
-- 🔭 Bacharel em TI
-- 🌱 Estudando Python, JS, HTML e IA
+- 🔭 Estudante de Bacharelado em TI | Foco em Desenvolvimento Web e Inteligência Artificial
+Aprendendo: Python • JavaScript • HTML/CSS
 
 
  <div>
