@@ -27,13 +27,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WallaceVenancio&show_icons=true&theme=radical&include_all_commits=t_
-
----
-
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallacevenancio)
