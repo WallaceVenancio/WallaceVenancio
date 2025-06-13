@@ -23,13 +23,43 @@
 - 🎓 Estudante de Bacharelado em Tecnologia da Informação (UNIVESP)
 - 🚀 Em formação como desenvolvedor com foco em:
   - JavaScript | Python | HTML & CSS
-- 🤖 Interesse por: Lógica de programação, Web, Inteligência Artificial
+- 🤖 Interesse por: Lógica de programação, Web, Inteligência Artificial e Bots
 
 ---
 
-### 📫 Contato
+### 📈 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallacevenancio)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wallacefvenancio@gmail.com)
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WallaceVenancio&show_icons=true&theme=radical&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceVenancio&layout=compact&langs_count=8&theme=radical" />
+</div>
 
 ---
+
+### 💡 Atualmente estudando:
+
+- Lógica de programação e algoritmos
+- Manipulação de DOM com JavaScript
+- Projetos com HTML/CSS/JS (Alura)
+- Git e versionamento com GitHub
+
+---
+
+### 🎯 Metas 2025:
+
+- [ ] Conquistar meu primeiro estágio em tecnologia
+- [ ] Criar um portfólio com pelo menos 10 projetos
+- [ ] Aprender React.js e consumo de APIs REST
+- [ ] Publicar um projeto pessoal hospedado no GitHub Pages
+
+---
+
+### 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://linkedin.com/in/wallacevenancio)](https://linkedin.com/in/wallacevenancio)
+[![Gmail](https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=gmail&logoColor=white&link=mailto:wallacefvenancio@gmail.com)](mailto:wallacefvenancio@gmail.com)
+
+---
+
+⭐ Obrigado por visitar meu perfil! Estou aberto a conexões, dicas e oportunidades. Vamos construir juntos!
+
