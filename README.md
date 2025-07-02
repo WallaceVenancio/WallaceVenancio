@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Wallace! 👋</h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E81E7F&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Wallace!+%F0%9F%91%8B)](https://git.io/typing-svg)</h1>
 
 <p align="center">
   Estudante de TI na UNIVESP | Desenvolvedor em formação com foco em Front-End e Lógica <br />
