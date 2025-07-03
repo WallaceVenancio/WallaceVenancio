@@ -36,11 +36,11 @@ Acredito no poder do aprendizado contínuo, explorar novas tecnologias e contrib
 
 <details>
   <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> GitHub Status</summary>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=geovanelelis&show_icons=true&theme=react" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=WallaceVenancio&show_icons=true&theme=react" /></p>
 </details>
 <details>
   <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Principais Linguagens</summary>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanelelis&size_weight=0.5&count_weight=0.5&theme=react" alt="Top Langs"></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceVenancio&size_weight=0.5&count_weight=0.5&theme=react" alt="Top Langs"></p>
 </details>
 
 <picture align="center">
