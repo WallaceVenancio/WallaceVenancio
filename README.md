@@ -34,20 +34,5 @@ Acredito no poder do aprendizado contínuo, explorar novas tecnologias e contrib
 </a>
 <br><br>
 
-<details>
-  <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> GitHub Status</summary>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=WallaceVenancio&show_icons=true&theme=react" /></p>
-</details>
-<details>
-  <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Principais Linguagens</summary>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceVenancio&size_weight=0.5&count_weight=0.5&theme=react" alt="Top Langs"></p>
-</details>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WallaceVenancio/WallaceVenancio/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WallaceVenancio/WallaceVenancio/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WallaceVenancio/WallaceVenancio/output/github-contribution-grid-snake.svg">
-</picture>
-<br><br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&width=550&lines=%F0%9F%91%8B+Valeu+por+visitar+meu+perfil!;%F0%9F%92%BB+Confira+meus+projetos+aqui+no+GitHub;%F0%9F%98%83+Curto+compartilhar+e+aprender+sempre;%F0%9F%98%89+Me+chama+pra+trocar+uma+ideia;%F0%9F%94%97+Vamos+nos+conectar+no+LinkedIn;%F0%9F%8C%9F+Te+desejo+um+%C3%B3timo+dia!)](https://git.io/typing-svg)
