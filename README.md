@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E81E7F&width=435&lines=%F0%9F%91%8B+Ola%2C+eu+sou+o+Wallace;%F0%9F%98%80+Adoro+aprender+e+perguntar;%F0%9F%8E%AF++Focado+em+mudar+de+vida)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=8853F7&width=435&lines=%F0%9F%91%8D+Ol%C3%A1%2C+eu+sou+o+Wallace;%F0%9F%94%A5+Vontade+do+fogo+%F0%9F%94%A5)](https://git.io/typing-svg)](https://git.io/typing-svg)
 
 Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, curso **Bacharelado em Tecnologia da Informação na UNIVESP** e estou em constante evolução na área de **desenvolvimento web**, com foco em **Back-end** e interesse crescente pelo universo **Full Stack**.
 Combinando criatividade, lógica e curiosidade, busco construir soluções que realmente façam a diferença. Tenho atuado empessoais para o desenvolvimento das minhas habilidades.
