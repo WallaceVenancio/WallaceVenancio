@@ -4,7 +4,7 @@ Sou apaixonado por tecnologia desde criança sendo bronze no League of Legends. 
 Tenho assinatura ativa na Alura para boostar minhas skills em programção.
 Acredito no poder do aprendizado contínuo, explorar novas tecnologias e contribuir com projetos que tenham propósito.  
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="cowboy" width="35" height="35" /> Atualmente...
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="cowboy" width="25" height="25" /> Atualmente...
 - Node.Js, Python, NoSQL e API REST são as bases do meu estudo.
 - Aprimorando minhas habilidades em inglês (Nível atual B2) e desenvolvimento back-end por meio da minha graduação na UNIVEPS e Alura. 
 
