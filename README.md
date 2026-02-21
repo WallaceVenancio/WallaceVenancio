@@ -45,4 +45,4 @@ Acredito no poder do aprendizado contínuo, explorar novas tecnologias e contrib
 </picture>
 <br><br>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WallaceVenancio&theme=rogue-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/WallaceVenancio/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WallaceVenancio&theme=rogue)](https://github.com/WallaceVenancio/github-readme-activity-graph)
