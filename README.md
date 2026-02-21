@@ -4,11 +4,11 @@ Sou apaixonado por tecnologia desde criança sendo bronze no League of Legends. 
 Tenho assinatura ativa na Alura para boostar minhas skills em programção.
 Acredito no poder do aprendizado contínuo, explorar novas tecnologias e contribuir com projetos que tenham propósito.  
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Atualmente...
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="cowboy" width="40" height="40" /> Atualmente...
 - Node.Js, Python, NoSQL e API REST são as bases do meu estudo.
 - Aprimorando minhas habilidades em inglês (Nível atual B2) e desenvolvimento back-end por meio da minha graduação na UNIVEPS e Alura. 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Star-Struck" width="30" height="30">
+### <img src="" alt="Star-Struck" width="30" height="30">
 [![Email](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:wallacefvenancio@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue)](www.linkedin.com/in/wallacevenancio)
 
