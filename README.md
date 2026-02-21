@@ -52,5 +52,5 @@ Acredito no poder do aprendizado contínuo, explorar novas tecnologias e contrib
 </p>
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=822e5a5e0fd049eb&count=5">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=1147618695&count=5">
 </p>
