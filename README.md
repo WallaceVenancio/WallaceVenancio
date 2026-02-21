@@ -16,7 +16,7 @@ Acredito no poder do aprendizado contínuo, explorar novas tecnologias e contrib
 
 ### Linguagens de Programação
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,mongodb" />
 </a>
 
 ### Frameworks e Bibliotecas
