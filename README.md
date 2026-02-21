@@ -45,5 +45,11 @@ Acredito no poder do aprendizado contínuo, explorar novas tecnologias e contrib
 </picture>
 <br><br>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&width=550&lines=%F0%9F%91%8B+Valeu+por+visitar+meu+perfil!;%F0%9F%92%BB+Confira+meus+projetos+aqui+no+GitHub;%F0%9F%98%83+Curto+compartilhar+e+aprender+sempre;%F0%9F%98%89+Me+chama+pra+trocar+uma+ideia;%F0%9F%94%97+Vamos+nos+conectar+no+LinkedIn;%F0%9F%8C%9F+Te+desejo+um+%C3%B3timo+dia!)](https://git.io/typing-svg)
+p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=WallaceVenancio-saha&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceVenancio-saha&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+  <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-purple.png" height="50" width="210" alt="aveek.saha" /></a>
+</p>
