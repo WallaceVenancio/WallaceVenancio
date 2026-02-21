@@ -10,10 +10,7 @@ Acredito no poder do aprendizado contínuo, explorar novas tecnologias e contrib
 
 [![Email](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:wallacefvenancio@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue)](www.linkedin.com/in/wallacevenancio)
-
 <br>
-
-#
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Minhas Skills
 
