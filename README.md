@@ -45,8 +45,4 @@ Acredito no poder do aprendizado contínuo, explorar novas tecnologias e contrib
 </picture>
 <br><br>
 
-<p align="center">
-<br/>
-<a href="https://www.linkedin.com/in/WallaceVenancio">
-  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a>
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/WallaceVenancio/github-readme-activity-graph)
