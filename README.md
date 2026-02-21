@@ -8,9 +8,9 @@ Acredito no poder do aprendizado contínuo, explorar novas tecnologias e contrib
 - Node.Js, Python, NoSQL e API REST são as bases do meu estudo.
 - Aprimorando minhas habilidades em inglês (Nível atual B2) e desenvolvimento back-end por meio da minha graduação na UNIVEPS e Alura. 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Star-Struck" width="25" height="25" /> 
-[![Email](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:wallacefvenancio@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue)](www.linkedin.com/in/wallacevenancio)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Star-Struck" width="25" height="25" [![Email](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:wallacefvenancio@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue)](www.linkedin.com/in/wallacevenancio)/> 
+
 <br>
 
 #
