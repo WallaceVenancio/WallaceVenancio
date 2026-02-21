@@ -46,3 +46,7 @@ Acredito no poder do aprendizado contínuo, explorar novas tecnologias e contrib
 <br><br>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WallaceVenancio&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+</p>
