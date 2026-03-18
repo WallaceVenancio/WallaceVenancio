@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B5CFF&width=435&lines=Ol%C3%A1%2C+tudo+bem%3F;Hello%2C+what's+up%3F;Bonjuor%2C+Comment+%C3%A7a+va%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B5CFF&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+tudo+bem%3F;%F0%9F%91%8B+Hello%2C+what's+up%3F;%F0%9F%91%8B+Bonjuor%2C+Comment+%C3%A7a+va%3F)](https://git.io/typing-svg)
 
 Sou apaixonado por tecnologia desde criança sendo bronze no League of Legends. Atualmente, curso **Bacharelado em Tecnologia da Informação na UNIVESP**, foco em **Back-end** e **Banco de dados** com desejo de dominar o **Full-stack**.
 Tenho assinatura ativa na Alura para boostar minhas skills em programção.
