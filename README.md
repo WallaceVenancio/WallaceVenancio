@@ -16,19 +16,13 @@ Acredito no poder do aprendizado contínuo, explorar novas tecnologias e contrib
 
 ### Linguagens de Programação
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,mongodb" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,python,js,html,css,mongodb" />
 </a>
 
 ### Frameworks e Bibliotecas
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=vscode,nodejs" />
 </a>
-
-### Ferramentas e DevOps
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</a>
-<br><br>
 <details>
   <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> GitHub Status</summary>
   <p><img src="https://github-readme-stats.vercel.app/api?username=WallaceVenancio&show_icons=true&theme=react" /></p>
